@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
+    "jsdom": "^18.1.0",
     "sucrase": "^3.18.2"
   }
 }
